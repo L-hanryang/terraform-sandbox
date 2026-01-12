@@ -5,4 +5,4 @@
 ## 폴더 구조
 
 - `modules/`: 재사용 가능한 Terraform 모듈
-- `live/`: 실제 환경 구성 (예: dev, prod)
+- `envs/`: 실제 환경 구성 (예: dev, stg, prd)
